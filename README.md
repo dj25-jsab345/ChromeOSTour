@@ -237,7 +237,8 @@ Ya lo único que tienes que hacer será apagar la PC, retirar la USB, encenderla
 Los pasos para instalarlo son los mismos que para UEFI, sólo que en tu carpeta de Chrome OS estará el parche para BIOS/Legacy agregado, y tus pantallas de arranque serán diferentes.
 
 ## Instalando Chrome OS (método #2, BIOS UEFI)
-Revisa mi canal de YT, ahí estará el tutorial guiado. 
+Revisa mi canal de YT, ahí estará el tutorial guiado.
+
 https://www.youtube.com/watch?v=3LbwVJlSRUA (Pt.1)
 
 https://www.youtube.com/watch?v=a-UW50_qjpM&t=376s (Pt.2)
