@@ -239,6 +239,7 @@ Los pasos para instalarlo son los mismos que para UEFI, sólo que en tu carpeta 
 ## Instalando Chrome OS (método #2, BIOS UEFI)
 Revisa mi canal de YT, ahí estará el tutorial guiado. 
 https://www.youtube.com/watch?v=3LbwVJlSRUA (Pt.1)
+
 https://www.youtube.com/watch?v=a-UW50_qjpM&t=376s (Pt.2)
 
 ## Instalando Chrome OS (método #2, BIOS heredada (BIOS/CSM/Legacy))
