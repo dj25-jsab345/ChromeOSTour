@@ -155,13 +155,25 @@ sudo su
 ```
 sudo apt-get install cgpt
 ```
+O alternativamente,
+```
+apt-get install cgpt
+```
 3. Para instalar la dependencia pv, necesaria para Chrome OS:
 ```
 sudo apt-get install pv
 ```
+O alternativamente,
+```
+apt-get install pv
+```
 4. Para generar la imagen de Chrome OS:
 ```
 sudo bash chromeos-install.sh -src (nombre completo y exacto del archivo del recovery) -dst chromeos.img
+```
+O alternativamente,
+```
+bash chromeos-install.sh -src (nombre completo y exacto del archivo del recovery) -dst chromeos.img
 ```
 
 Ahora te toca esperar un buen rato, puesto que la IMG pesa 14 GB.
