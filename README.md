@@ -30,7 +30,7 @@ Ahora puedes decir: ok, sí, ya conozco Chrome OS, pero ¿de qué me serviría t
 - Es un SO rápido; por su ligereza, sencillez y poca saturación de contenidos con respecto a otros SO, es considerablemente más optimizado y rápido, así que puedes usarlo para revivir PC's antiguas (no tan demasiado antiguas).
 - (Por mis métodos) Tiene 3 diversos métodos de instalación, así que puedes elegir el que más te convenga para instalarlo o probarlo.
 
-## Desventajas ❌
+### Desventajas ❌
 Acá viene lo no tan dulce y feliz; estos aspectos desagradables a muchos los puede hacer abandonar el tour.
 - No es tan sencillo de instalar como CloudReady o Chromium OS; tienes que pasar por un proceso un tanto extenso y descargar archivos algo pesados para poder generar una IMG de Chrome OS arrancable con la que puedas arrancar. También requiere que sepas un poco de Linux.
 - Es un poco exigente en requisitos; no es TAN exigente en requisitos como Windows 11, pero tampoco es omni-compatible (compatible con absolutamente todas las PC).
