@@ -198,7 +198,7 @@ sudo fdisk -l (L)
 ```
 3. Para seleccionar el disco en el crosh, y trabajar con él usando el fdisk:
 ```
-sudo fdisk /dev/sdX/
+fdisk /dev/sdX/
 ```
 Donde X es la letra que Chrome OS le asignó al disco.
 
@@ -220,7 +220,7 @@ w
 ```
 3.4 Pon este comando seguido de la tecla Enter:
 ```
-sudo fdisk -l (L)
+fdisk -l (L)
 ```
 4. Para instalar Chrome OS:
 ```
