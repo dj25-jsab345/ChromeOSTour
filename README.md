@@ -151,7 +151,15 @@ Allí, introduce los siguientes comandos UNO por UNO, seguidos de la tecla Enter
 ```
 sudo su
 ```
-2. Para instalar la dependencia cgpt, necesaria para Chrome OS
+2. Para actualizar los repositorios y dependencias de la VM de Linux Mint:
+```
+sudo apt-get update
+```
+O alternativamente,
+```
+apt-get update
+```
+3. Para instalar la dependencia cgpt, necesaria para Chrome OS
 ```
 sudo apt-get install cgpt
 ```
@@ -159,7 +167,7 @@ O alternativamente,
 ```
 apt-get install cgpt
 ```
-3. Para instalar la dependencia pv, necesaria para Chrome OS:
+4. Para instalar la dependencia pv, necesaria para Chrome OS:
 ```
 sudo apt-get install pv
 ```
@@ -167,7 +175,7 @@ O alternativamente,
 ```
 apt-get install pv
 ```
-4. Para generar la imagen de Chrome OS:
+5. Para generar la imagen de Chrome OS:
 ```
 sudo bash chromeos-install.sh -src (nombre completo y exacto del archivo del recovery) -dst chromeos.img
 ```
